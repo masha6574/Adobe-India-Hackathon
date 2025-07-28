@@ -1,0 +1,7 @@
+PyMuPDF
+sentence-transformers
+scikit-learn
+sumy
+keybert
+transformers
+torch
