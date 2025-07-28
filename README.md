@@ -65,7 +65,7 @@ Example:
 
 Python
 
-# ... (rest of the code)
+(rest of the code)
 
 if __name__ == '__main__':
     # ... (setup code is here)
