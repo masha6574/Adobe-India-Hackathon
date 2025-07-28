@@ -1,7 +1,8 @@
-PyMuPDF
+unstructured[pdf,local-inference]
 sentence-transformers
-scikit-learn
-sumy
-keybert
 transformers
+faiss-cpu
+numpy
+sentencepiece
 torch
+accelerate
